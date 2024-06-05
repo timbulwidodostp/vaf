@@ -1,6 +1,8 @@
 # vaf
 VAF (Variance Accounted For) in mediation effect models with Structural Equation Modeling (SEM) Use vaf For STATA 18
 
+https://www.youtube.com/watch?v=APoeplfqc20
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
